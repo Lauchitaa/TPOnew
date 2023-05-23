@@ -191,17 +191,17 @@ body {
   
   }
   
-  @media (max-width:550px) {
+  @media (max-width:500px) {
   
     .header a{
-      font-size: 8px;
+      font-size: 5px;
     }
     .header img{
       width: 0%;
       height: 40px;
     }
     nav a {
-      padding: 1px 8px;
+      padding: 1px 2px;
      
     }
     nav li {
@@ -210,7 +210,7 @@ body {
     .contacto a {
       display: inline-block;
       padding: 1px 10px;
-      font-size: 8px;
+      font-size: 5px;
     }
     
   
